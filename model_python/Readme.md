@@ -14,7 +14,7 @@ SNDR: [62.13335121]
 
 ENOB: [10.02879588]
 
-## 10b
+## 16b
 
 Simulating a 16 bit SAR ADC
 
